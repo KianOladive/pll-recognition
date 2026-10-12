@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="description" content="Drill CFOP PLL recognition from two-sided cube pictures, with per-case timing and a weak-case focus mode.">
+    <title>PLL Recognition Trainer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=IBM+Plex+Mono:wght@500;600&display=swap">
+  </head>
+  <body>
+    <div class="wrap">
+      <header>
+        <div class="title">
+          <h1>PLL Recognition Trainer</h1>
+          <span class="sub">Name the PLL from two sides. Type it or click it.</span>
+        </div>
+        <button class="btn" id="guideBtn" popovertarget="guide">Recognition guide</button>
+      </header>
+
+      <div id="guide" class="guide" popover>
+        <div class="guide-head">
+          <h2>Recognition guide</h2>
+          <button class="btn" popovertarget="guide" popovertargetaction="hide" aria-label="Close guide">Close</button>
+        </div>
+        <div id="guideBody"></div>
+      </div>
+
+      <section class="panel stage" aria-live="polite">
+        <div class="cube idle" id="cube">
+          <img id="cubeImg" alt="Cube showing a PLL case">
+          <button class="start" id="startBtn">Start<small>or press Space</small></button>
+        </div>
+        <div class="readout">
+          <div class="timer" id="timer">0.00</div>
+          <div class="feedback" id="feedback"></div>
+          <div class="session">
+            <span>Cases <b id="sCount">0</b></span>
+            <span>Correct <b id="sAcc">–</b></span>
+            <span>Avg <b id="sAvg">–</b></span>
+            <span>Streak <b id="sStreak">0</b></span>
+          </div>
+          <div class="hint">Keys: one letter per case, <kbd>h</kbd> <kbd>g</kbd> <kbd>u</kbd> … · <kbd>Space</kbd> next after a miss · <kbd>Esc</kbd> stop <span class="typed" id="typed"></span></div>
+        </div>
+      </section>
+
+      <section class="panel pad" id="pad"></section>
+
+      <section class="controls">
+        <span class="seg" role="group" aria-label="Cases per session" id="targetSeg">
+          <button data-target="10">10</button>
+          <button data-target="25">25</button>
+          <button data-target="50">50</button>
+          <button data-target="100">100</button>
+          <button data-target="0" aria-label="Endless">∞</button>
+        </span>
+        <span class="seg" role="group" aria-label="Case order">
+          <button id="modeRandom" aria-pressed="true">Random</button>
+          <button id="modeWeak" aria-pressed="false">Focus weak cases</button>
+        </span>
+        <span class="seg" role="group" aria-label="Click behaviour">
+          <button id="clickAnswer" aria-pressed="true">Click = answer</button>
+          <button id="clickToggle" aria-pressed="false">Click = pick cases</button>
+        </span>
+        <span class="select-note" id="selectNote"></span>
+        <span class="spacer"></span>
+        <button class="btn" id="stopBtn" hidden>Stop</button>
+        <button class="btn danger" id="reset">Reset stats</button>
+      </section>
+
+      <section class="panel">
+        <h2>Per-case stats</h2>
+        <div class="table-scroll"><table id="stats"></table></div>
+      </section>
+
+      <footer class="credit">Cube pictures are generated from standard PLL algorithms, styled after Erikoui's PLL Recognition Trainer.</footer>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

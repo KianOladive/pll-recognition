@@ -1,0 +1,506 @@
+[
+ {
+  "picture": "Accw1.gif",
+  "case": "Ab",
+  "front": [ "blue", "blue", "red" ],
+  "right": [ "green", "red", "green" ]
+ },
+ {
+  "picture": "Accw2.gif",
+  "case": "Ab",
+  "front": [ "green", "red", "green" ],
+  "right": [ "orange", "green", "blue" ]
+ },
+ {
+  "picture": "Accw3.gif",
+  "case": "Ab",
+  "front": [ "orange", "green", "blue" ],
+  "right": [ "red", "orange", "orange" ]
+ },
+ {
+  "picture": "Accw4.gif",
+  "case": "Ab",
+  "front": [ "red", "orange", "orange" ],
+  "right": [ "blue", "blue", "red" ]
+ },
+ {
+  "picture": "Acw1.gif",
+  "case": "Aa",
+  "front": [ "green", "blue", "orange" ],
+  "right": [ "blue", "red", "blue" ]
+ },
+ {
+  "picture": "Acw2.gif",
+  "case": "Aa",
+  "front": [ "blue", "red", "blue" ],
+  "right": [ "red", "green", "green" ]
+ },
+ {
+  "picture": "Acw3.gif",
+  "case": "Aa",
+  "front": [ "red", "green", "green" ],
+  "right": [ "orange", "orange", "red" ]
+ },
+ {
+  "picture": "Acw4.gif",
+  "case": "Aa",
+  "front": [ "orange", "orange", "red" ],
+  "right": [ "green", "blue", "orange" ]
+ },
+ {
+  "picture": "E1.gif",
+  "case": "E",
+  "front": [ "orange", "blue", "red" ],
+  "right": [ "green", "red", "blue" ]
+ },
+ {
+  "picture": "E2.gif",
+  "case": "E",
+  "front": [ "green", "red", "blue" ],
+  "right": [ "red", "green", "orange" ]
+ },
+ {
+  "picture": "E3.gif",
+  "case": "E",
+  "front": [ "red", "green", "orange" ],
+  "right": [ "blue", "orange", "green" ]
+ },
+ {
+  "picture": "E4.gif",
+  "case": "E",
+  "front": [ "blue", "orange", "green" ],
+  "right": [ "orange", "blue", "red" ]
+ },
+ {
+  "picture": "F1.gif",
+  "case": "F",
+  "front": [ "red", "blue", "orange" ],
+  "right": [ "blue", "orange", "red" ]
+ },
+ {
+  "picture": "F2.gif",
+  "case": "F",
+  "front": [ "blue", "orange", "red" ],
+  "right": [ "green", "green", "green" ]
+ },
+ {
+  "picture": "F3.gif",
+  "case": "F",
+  "front": [ "green", "green", "green" ],
+  "right": [ "orange", "red", "blue" ]
+ },
+ {
+  "picture": "F4.gif",
+  "case": "F",
+  "front": [ "orange", "red", "blue" ],
+  "right": [ "red", "blue", "orange" ]
+ },
+ {
+  "picture": "Ga1.gif",
+  "case": "Ga",
+  "front": [ "orange", "green", "orange" ],
+  "right": [ "blue", "red", "red" ]
+ },
+ {
+  "picture": "Ga2.gif",
+  "case": "Ga",
+  "front": [ "blue", "red", "red" ],
+  "right": [ "green", "orange", "blue" ]
+ },
+ {
+  "picture": "Ga3.gif",
+  "case": "Ga",
+  "front": [ "green", "orange", "blue" ],
+  "right": [ "red", "blue", "green" ]
+ },
+ {
+  "picture": "Ga4.gif",
+  "case": "Ga",
+  "front": [ "red", "blue", "green" ],
+  "right": [ "orange", "green", "orange" ]
+ },
+ {
+  "picture": "Gb1.gif",
+  "case": "Gb",
+  "front": [ "orange", "red", "red" ],
+  "right": [ "green", "blue", "orange" ]
+ },
+ {
+  "picture": "Gb2.gif",
+  "case": "Gb",
+  "front": [ "green", "blue", "orange" ],
+  "right": [ "blue", "green", "blue" ]
+ },
+ {
+  "picture": "Gb3.gif",
+  "case": "Gb",
+  "front": [ "blue", "green", "blue" ],
+  "right": [ "red", "orange", "green" ]
+ },
+ {
+  "picture": "Gb4.gif",
+  "case": "Gb",
+  "front": [ "red", "orange", "green" ],
+  "right": [ "orange", "red", "red" ]
+ },
+ {
+  "picture": "Gc1.gif",
+  "case": "Gc",
+  "front": [ "orange", "blue", "red" ],
+  "right": [ "green", "green", "orange" ]
+ },
+ {
+  "picture": "Gc2.gif",
+  "case": "Gc",
+  "front": [ "green", "green", "orange" ],
+  "right": [ "blue", "red", "blue" ]
+ },
+ {
+  "picture": "Gc3.gif",
+  "case": "Gc",
+  "front": [ "blue", "red", "blue" ],
+  "right": [ "red", "orange", "green" ]
+ },
+ {
+  "picture": "Gc4.gif",
+  "case": "Gc",
+  "front": [ "red", "orange", "green" ],
+  "right": [ "orange", "blue", "red" ]
+ },
+ {
+  "picture": "Gd1.gif",
+  "case": "Gd",
+  "front": [ "red", "blue", "green" ],
+  "right": [ "orange", "orange", "red" ]
+ },
+ {
+  "picture": "Gd2.gif",
+  "case": "Gd",
+  "front": [ "orange", "orange", "red" ],
+  "right": [ "green", "red", "orange" ]
+ },
+ {
+  "picture": "Gd3.gif",
+  "case": "Gd",
+  "front": [ "green", "red", "orange" ],
+  "right": [ "blue", "green", "blue" ]
+ },
+ {
+  "picture": "Gd4.gif",
+  "case": "Gd",
+  "front": [ "blue", "green", "blue" ],
+  "right": [ "red", "blue", "green" ]
+ },
+ {
+  "picture": "H1.gif",
+  "case": "H",
+  "front": [ "blue", "green", "blue" ],
+  "right": [ "red", "orange", "red" ]
+ },
+ {
+  "picture": "H2.gif",
+  "case": "H",
+  "front": [ "red", "orange", "red" ],
+  "right": [ "green", "blue", "green" ]
+ },
+ {
+  "picture": "H3.gif",
+  "case": "H",
+  "front": [ "green", "blue", "green" ],
+  "right": [ "orange", "red", "orange" ]
+ },
+ {
+  "picture": "H4.gif",
+  "case": "H",
+  "front": [ "orange", "red", "orange" ],
+  "right": [ "blue", "green", "blue" ]
+ },
+ {
+  "picture": "Ja1.gif",
+  "case": "Ja",
+  "front": [ "blue", "blue", "red" ],
+  "right": [ "green", "green", "blue" ]
+ },
+ {
+  "picture": "Ja2.gif",
+  "case": "Ja",
+  "front": [ "green", "green", "blue" ],
+  "right": [ "red", "red", "green" ]
+ },
+ {
+  "picture": "Ja3.gif",
+  "case": "Ja",
+  "front": [ "red", "red", "green" ],
+  "right": [ "orange", "orange", "orange" ]
+ },
+ {
+  "picture": "Ja4.gif",
+  "case": "Ja",
+  "front": [ "orange", "orange", "orange" ],
+  "right": [ "blue", "blue", "red" ]
+ },
+ {
+  "picture": "Jb1.gif",
+  "case": "Jb",
+  "front": [ "blue", "red", "red" ],
+  "right": [ "green", "blue", "blue" ]
+ },
+ {
+  "picture": "Jb2.gif",
+  "case": "Jb",
+  "front": [ "green", "blue", "blue" ],
+  "right": [ "red", "green", "green" ]
+ },
+ {
+  "picture": "Jb3.gif",
+  "case": "Jb",
+  "front": [ "red", "green", "green" ],
+  "right": [ "orange", "orange", "orange" ]
+ },
+ {
+  "picture": "Jb4.gif",
+  "case": "Jb",
+  "front": [ "orange", "orange", "orange" ],
+  "right": [ "blue", "red", "red" ]
+ },
+ {
+  "picture": "Na1.gif",
+  "case": "Na",
+  "front": [ "green", "blue", "blue" ],
+  "right": [ "red", "orange", "orange" ]
+ },
+ {
+  "picture": "Na2.gif",
+  "case": "Na",
+  "front": [ "red", "orange", "orange" ],
+  "right": [ "blue", "green", "green" ]
+ },
+ {
+  "picture": "Na3.gif",
+  "case": "Na",
+  "front": [ "blue", "green", "green" ],
+  "right": [ "orange", "red", "red" ]
+ },
+ {
+  "picture": "Na4.gif",
+  "case": "Na",
+  "front": [ "orange", "red", "red" ],
+  "right": [ "green", "blue", "blue" ]
+ },
+ {
+  "picture": "Nb1.gif",
+  "case": "Nb",
+  "front": [ "blue", "blue", "green" ],
+  "right": [ "orange", "orange", "red" ]
+ },
+ {
+  "picture": "Nb2.gif",
+  "case": "Nb",
+  "front": [ "orange", "orange", "red" ],
+  "right": [ "green", "green", "blue" ]
+ },
+ {
+  "picture": "Nb3.gif",
+  "case": "Nb",
+  "front": [ "green", "green", "blue" ],
+  "right": [ "red", "red", "orange" ]
+ },
+ {
+  "picture": "Nb4.gif",
+  "case": "Nb",
+  "front": [ "red", "red", "orange" ],
+  "right": [ "blue", "blue", "green" ]
+ },
+ {
+  "picture": "Ra1.gif",
+  "case": "Ra",
+  "front": [ "green", "red", "blue" ],
+  "right": [ "red", "orange", "green" ]
+ },
+ {
+  "picture": "Ra2.gif",
+  "case": "Ra",
+  "front": [ "red", "orange", "green" ],
+  "right": [ "orange", "green", "orange" ]
+ },
+ {
+  "picture": "Ra3.gif",
+  "case": "Ra",
+  "front": [ "orange", "green", "orange" ],
+  "right": [ "blue", "blue", "red" ]
+ },
+ {
+  "picture": "Ra4.gif",
+  "case": "Ra",
+  "front": [ "blue", "blue", "red" ],
+  "right": [ "green", "red", "blue" ]
+ },
+ {
+  "picture": "Rb1.gif",
+  "case": "Rb",
+  "front": [ "green", "orange", "orange" ],
+  "right": [ "blue", "red", "blue" ]
+ },
+ {
+  "picture": "Rb2.gif",
+  "case": "Rb",
+  "front": [ "orange", "green", "red" ],
+  "right": [ "green", "orange", "orange" ]
+ },
+ {
+  "picture": "Rb3.gif",
+  "case": "Rb",
+  "front": [ "red", "blue", "green" ],
+  "right": [ "orange", "green", "red" ]
+ },
+ {
+  "picture": "Rb4.gif",
+  "case": "Rb",
+  "front": [ "blue", "red", "blue" ],
+  "right": [ "red", "blue", "green" ]
+ },
+ {
+  "picture": "T1.gif",
+  "case": "T",
+  "front": [ "green", "orange", "blue" ],
+  "right": [ "red", "green", "green" ]
+ },
+ {
+  "picture": "T2.gif",
+  "case": "T",
+  "front": [ "blue", "blue", "red" ],
+  "right": [ "green", "orange", "blue" ]
+ },
+ {
+  "picture": "T3.gif",
+  "case": "T",
+  "front": [ "red", "green", "green" ],
+  "right": [ "orange", "red", "orange" ]
+ },
+ {
+  "picture": "T4.gif",
+  "case": "T",
+  "front": [ "orange", "red", "orange" ],
+  "right": [ "blue", "blue", "red" ]
+ },
+ {
+  "picture": "Uccw1.gif",
+  "case": "Ua",
+  "front": [ "blue", "red", "blue" ],
+  "right": [ "red", "green", "red" ]
+ },
+ {
+  "picture": "Uccw2.gif",
+  "case": "Ua",
+  "front": [ "orange", "orange", "orange" ],
+  "right": [ "blue", "red", "blue" ]
+ },
+ {
+  "picture": "Uccw3.gif",
+  "case": "Ua",
+  "front": [ "green", "blue", "green" ],
+  "right": [ "orange", "orange", "orange" ]
+ },
+ {
+  "picture": "Uccw4.gif",
+  "case": "Ua",
+  "front": [ "red", "green", "red" ],
+  "right": [ "green", "blue", "green" ]
+ },
+ {
+  "picture": "Ucw1.gif",
+  "case": "Ub",
+  "front": [ "blue", "green", "blue" ],
+  "right": [ "red", "blue", "red" ]
+ },
+ {
+  "picture": "Ucw2.gif",
+  "case": "Ub",
+  "front": [ "red", "blue", "red" ],
+  "right": [ "green", "red", "green" ]
+ },
+ {
+  "picture": "Ucw3.gif",
+  "case": "Ub",
+  "front": [ "green", "red", "green" ],
+  "right": [ "orange", "orange", "orange" ]
+ },
+ {
+  "picture": "Ucw4.gif",
+  "case": "Ub",
+  "front": [ "orange", "orange", "orange" ],
+  "right": [ "blue", "green", "blue" ]
+ },
+ {
+  "picture": "V1.gif",
+  "case": "V",
+  "front": [ "blue", "blue", "green" ],
+  "right": [ "orange", "green", "red" ]
+ },
+ {
+  "picture": "V2.gif",
+  "case": "V",
+  "front": [ "orange", "green", "red" ],
+  "right": [ "green", "red", "blue" ]
+ },
+ {
+  "picture": "V3.gif",
+  "case": "V",
+  "front": [ "green", "red", "blue" ],
+  "right": [ "red", "orange", "orange" ]
+ },
+ {
+  "picture": "V4.gif",
+  "case": "V",
+  "front": [ "red", "orange", "orange" ],
+  "right": [ "blue", "blue", "green" ]
+ },
+ {
+  "picture": "Y1.gif",
+  "case": "Y",
+  "front": [ "blue", "blue", "green" ],
+  "right": [ "orange", "red", "red" ]
+ },
+ {
+  "picture": "Y2.gif",
+  "case": "Y",
+  "front": [ "orange", "red", "red" ],
+  "right": [ "green", "orange", "blue" ]
+ },
+ {
+  "picture": "Y3.gif",
+  "case": "Y",
+  "front": [ "green", "orange", "blue" ],
+  "right": [ "red", "green", "orange" ]
+ },
+ {
+  "picture": "Y4.gif",
+  "case": "Y",
+  "front": [ "red", "green", "orange" ],
+  "right": [ "blue", "blue", "green" ]
+ },
+ {
+  "picture": "Z1.gif",
+  "case": "Z",
+  "front": [ "green", "orange", "green" ],
+  "right": [ "orange", "green", "orange" ]
+ },
+ {
+  "picture": "Z2.gif",
+  "case": "Z",
+  "front": [ "orange", "green", "orange" ],
+  "right": [ "blue", "red", "blue" ]
+ },
+ {
+  "picture": "Z3.gif",
+  "case": "Z",
+  "front": [ "blue", "red", "blue" ],
+  "right": [ "red", "blue", "red" ]
+ },
+ {
+  "picture": "Z4.gif",
+  "case": "Z",
+  "front": [ "red", "blue", "red" ],
+  "right": [ "green", "orange", "green" ]
+ }
+]
